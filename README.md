@@ -1,3 +1,27 @@
+## About Apps
+This project is the result of my practice using Laravel Filament regarding the correspondence management system, which includes outgoing & incoming letters, assignment letters to members, and management of members' ranks and positions.
+
+## Preview Apps
+![image](https://github.com/user-attachments/assets/4c0dd5a4-3d9d-4e79-98b9-8563dd05ec28)
+![image](https://github.com/user-attachments/assets/47c58ccf-0ec2-4930-b078-f97435547087)
+![image](https://github.com/user-attachments/assets/74fe12fc-b173-4aa3-b41d-12e30619e2b6)
+![image](https://github.com/user-attachments/assets/821ec3a1-d7fa-4f30-a239-6b0619597962)
+![image](https://github.com/user-attachments/assets/ac2c0eff-d20a-413f-ad33-2d9181ff2154)
+![image](https://github.com/user-attachments/assets/65684652-7678-4291-8c6a-abcfc2022abb)
+![image](https://github.com/user-attachments/assets/d8c6d174-2a43-48d4-b697-6db6b7452991)
+![image](https://github.com/user-attachments/assets/02ea68e1-47a2-4e74-827e-fc9b3f75b58b)
+![image](https://github.com/user-attachments/assets/501f1c96-c2b4-439d-9128-6bc7db28d523)
+![image](https://github.com/user-attachments/assets/623028b0-d8e7-45a3-b36a-132dacde101b)
+![image](https://github.com/user-attachments/assets/08ed2701-3bd3-40c7-ac0c-ff8bfa254a23)
+
+
+## How To Run ?
+- composer install
+- php artisan key:generate
+- php artisan storage:link
+- php artisan migrate
+- php artisan make:filament-user           
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -20,38 +44,6 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
 ## Code of Conduct
 
